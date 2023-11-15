@@ -1,0 +1,34 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "start": "run dev"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "lint": "^0.8.19",
+    "usemodal-vue3": "^0.3.7",
+    "vue": "^3.2.45",
+    "vue-ionicons": "^3.0.5",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0",
+    "axios": "^1.3.2",
+    "jimp": "^0.22.4"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "prettier": "^2.7.1",
+    "vite": "^4.0.0",
+    "sass": "^1.58.0"
+  }
+}

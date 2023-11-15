@@ -1,0 +1,53 @@
+[
+  {
+    "id": "10",
+    "category": "edu",
+    "exp": "Frontend-utvecklare",
+    "place": "IT-Högskolan",
+    "year": "2022-2024",
+    "more": "Genomgångna kurser: \nHTML & CSS  \nNative Javascript \nUX- & UI-design \nJavascript med ramverk \nAgil utveckling \nFullstackutveckling "
+  },
+  {
+    "id": "9",
+    "category": "work",
+    "exp": "Skolbibliotek",
+    "place": "Årstadalsskolan",
+    "year": "2022-2023"
+  },
+  {
+    "id": "8",
+    "category": "work",
+    "exp": "Lärare, årskurs F-6",
+    "place": "Årstadalsskolan",
+    "year": "2016-2022",
+    "more": "Lärare i alla teoretiska ämnen."
+  },
+  {
+    "id": "7",
+    "category": "work",
+    "exp": "Lärare, årskurs F-3",
+    "place": "Källbrinksskolan",
+    "year": "2012-2016"
+  },
+  {
+    "id": "6",
+    "category": "work",
+    "exp": "Förskollärare",
+    "place": "Kajen",
+    "year": "2011-2012"
+  },
+  {
+    "id": "5",
+    "category": "edu",
+    "exp": "Lärarutbildning",
+    "place": "Linköpings universitet",
+    "year": "2007-2011"
+  },
+  {
+    "id": "4",
+    "category": "edu",
+    "exp": "Pedagogik, kurs",
+    "place": "Linköpings universitet",
+    "year": "2007"
+  }
+]
